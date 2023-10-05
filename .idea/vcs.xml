@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Quiz App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Recipie App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Weather App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/random Number generator" vcs="Git" />
+  </component>
+</project>
